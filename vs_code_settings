@@ -1,0 +1,15 @@
+{
+    "python.disablePromptForFeatures": [
+        "pylint"
+    ],
+    "workbench.colorTheme": "Default High Contrast",
+    "workbench.colorCustomizations": {
+        "editor.background": "#000000",
+        "editorCursor.foreground": "#ffee00",
+        "scrollbarSlider.activeBackground": "#6d0000",
+        "scrollbarSlider.background": "#6d0000",
+        "contrastBorder": "#ff0000"
+    },
+    "editor.cursorStyle": "block-outline",
+    "editor.cursorBlinking": "phase",
+}
