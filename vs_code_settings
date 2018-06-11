@@ -38,5 +38,5 @@
         "vue-html": "html",
         "vue": "html"
     },
-    javascript.validate.enable": false
+    "javascript.validate.enable": false
 }
