@@ -12,4 +12,31 @@
     },
     "editor.cursorStyle": "block-outline",
     "editor.cursorBlinking": "phase",
+    "editor.tokenColorCustomizations": {
+       "strings": "#e24848",
+       "comments": "#d053db"
+    },
+    "html.autoClosingTags": true,
+    "eslint.options": {
+        "extensions": [
+            ".js",
+            ".jsp",
+            ".json",
+            ".html",
+            ".vue"
+        ]
+    },
+    "eslint.validate": [
+        "javascript",
+        "html",
+        "jsp",
+        "vue"
+    ],
+    "vetur.validation.template": false,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "vue-html": "html",
+        "vue": "html"
+    },
+    javascript.validate.enable": false
 }
