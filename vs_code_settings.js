@@ -39,7 +39,6 @@
     },
     "javascript.validate.enable": false,
     "window.zoomLevel": 0,
-    "workbench.colorTheme": "Visual Studio Dark",
     "terminal.integrated.shell.windows": "C:\\Users\\jstrong\\AppData\\Local\\Programs\\Git\\bin\\bash.exe",
     "editor.formatOnPaste": false,
     "editor.formatOnSave": false,
